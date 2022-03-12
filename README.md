@@ -12,16 +12,16 @@ the data from the bezierSets and renders them, increasing the number rendered by
 
 ## Some Examples
 
-#### 100 Digits
+#### 1,800 Digits
 ![100 digit render](pi_100.png)
 
-#### 200 Digits
+#### 3,600 Digits
 ![200 digit render](pi_200.png)
 
-#### 400 Digits
+#### 7,200 Digits
 ![400 digit render](pi_400.png)
 
-#### 800 Digits
+#### 14,400 Digits
 ![800 digit render](pi_800.png)
 
 #### 1st Million Digits
